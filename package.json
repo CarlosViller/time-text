@@ -1,0 +1,27 @@
+{
+  "name": "time-text",
+  "version": "0.1.0",
+  "description": "Time duration variables with a descriptive naming",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosViller/time-text.git"
+  },
+  "keywords": [
+    "time",
+    "time-duration",
+    "string"
+  ],
+  "author": "Deltaaaaq",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CarlosViller/time-text/issues"
+  },
+  "homepage": "https://github.com/CarlosViller/time-text#readme",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}

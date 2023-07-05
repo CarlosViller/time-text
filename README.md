@@ -1,2 +1,2 @@
 # time-text
-Time duration variables with a descriptive naming
+Numeric time duration variables in seconds with a descriptive naming

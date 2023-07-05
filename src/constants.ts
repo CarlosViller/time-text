@@ -1,0 +1,13 @@
+export const ONE_MINUTE = 60;
+export const FIVE_MINUTES = 300;
+export const FIFTEEN_MINUTES = 900;
+export const THIRTY_MINUTES = 1800;
+export const FORTYFIVE_MINUTES = 2700;
+export const ONE_HOUR = 3600;
+export const FIVE_HOURS = 18_000;
+export const TWELVE_HOURS = 43_200;
+export const ONE_DAY = 86_400;
+export const FIFTEEN_DAYS = 1_296_000;
+export const ONE_WEEK = 60_4800;
+export const ONE_MONTH = 2_629_743;
+export const ONE_YEAR = 31_556_926;
