@@ -9,7 +9,7 @@ import {
 
 type Unit = "MIN" | "HOUR" | "DAY" | "WEEK" | "MONTH" | "YEAR";
 
-export default function customTime(amount: number, unit: Unit) {
+export function customTime(amount: number, unit: Unit) {
   switch (unit) {
     case "MIN":
       return amount * ONE_MINUTE;
