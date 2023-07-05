@@ -1,0 +1,16 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.ONE_YEAR = exports.ONE_MONTH = exports.ONE_WEEK = exports.FIFTEEN_DAYS = exports.ONE_DAY = exports.TWELVE_HOURS = exports.FIVE_HOURS = exports.ONE_HOUR = exports.FORTYFIVE_MINUTES = exports.THIRTY_MINUTES = exports.FIFTEEN_MINUTES = exports.FIVE_MINUTES = exports.ONE_MINUTE = void 0;
+exports.ONE_MINUTE = 60;
+exports.FIVE_MINUTES = 300;
+exports.FIFTEEN_MINUTES = 900;
+exports.THIRTY_MINUTES = 1800;
+exports.FORTYFIVE_MINUTES = 2700;
+exports.ONE_HOUR = 3600;
+exports.FIVE_HOURS = 18000;
+exports.TWELVE_HOURS = 43200;
+exports.ONE_DAY = 86400;
+exports.FIFTEEN_DAYS = 1296000;
+exports.ONE_WEEK = 604800;
+exports.ONE_MONTH = 2629743;
+exports.ONE_YEAR = 31556926;

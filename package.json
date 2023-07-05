@@ -2,8 +2,9 @@
   "name": "time-text",
   "version": "0.1.1",
   "description": "Time duration variables with a descriptive naming",
-  "main": "./src/index.ts",
+  "main": "dist/index.js",
   "scripts": {
+    "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
