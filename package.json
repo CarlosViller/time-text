@@ -1,6 +1,6 @@
 {
   "name": "time-text",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Time duration variables with a descriptive naming",
   "main": "./src/index.ts",
   "scripts": {
